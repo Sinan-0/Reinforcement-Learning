@@ -1,0 +1,6 @@
+gym==0.21.0
+matplotlib==3.3.4
+numpy==1.21.2
+opencv_python==4.5.1.48
+pandas==1.2.5
+torch==1.9.1
